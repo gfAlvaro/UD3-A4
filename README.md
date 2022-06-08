@@ -1,4 +1,4 @@
-# UD3-A4 Colegio
+# UD3-A4 Entidad Alumno
 
 Álvaro García Fuentes
 
