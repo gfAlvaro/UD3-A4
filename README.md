@@ -4,7 +4,8 @@
 
 Genera la entidad Alumno con los atributos:
 
-   número de alumno (identificador autogestionado @GeneratedValue)
+
+número de alumno (identificador autogestionado @GeneratedValue)
    nombre
    dirección
    nota media
