@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS `Alumnos`(`id` INT NOT NULL AUTO_INCREMENT,`nombre` VARCHAR(255) NOT NULL,`direccion` VARCHAR(255),`notaMedia` DECIMAL(2,1),`fechaNacimiento` DATE NOT NULL,PRIMARY KEY (`id`));
